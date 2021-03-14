@@ -5,3 +5,5 @@ Jinja2==2.11.3
 beautifulsoup4==4.9.1
 tinydb==4.4.0
 aiofiles==0.6.0
+python-multipart==0.0.5
+starlette==0.13.6
